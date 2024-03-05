@@ -1,0 +1,13 @@
+{
+  "name": "TestDocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EGAMER26/TestDocker",
+  "author": "EGAMER26 <104949162+EGAMER26@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "mysql2": "^2.1.0"
+  }
+}
